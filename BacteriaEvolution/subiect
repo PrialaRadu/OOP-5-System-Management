@@ -1,0 +1,24 @@
+   Intr-un laborator de cercetari biologice, se efectueaza un studiu asupra unei colonii de bacterii identificate prin
+denumire, varsta (exprimata in unitati de timp) si tip (tip 1 sau tip 2).
+   Bacteriile de tipul 1 se pot inmulti prin diviziune (dand nastere la doua bacterii identice cu bacteria mama si care
+iau locul bacteriei mama).
+   Bacteriile de tipul 2 se pot inmulti prin inmugurire (formarea unei bacterii noi, de tip opus cu bacteria mama, pe
+corpul bacteriei mama si deprinderea ei dupa 3 uitati de timp, moment in care bacteria noua creata se pozitioneaza la
+dreapta bacteriei mama). Cercetatorii plaseaza bacterii pe o lamela si le lasa sa evolueze k unitati de timp, scopul lor
+fiind sa observe la microscop evolutia bacteriilor. Realizati o aplicatie care sa ii ajute pe cercetatori sa studieze
+bacteriile si care sa permita:
+   1) "vizualizarea la microscop" a bacteriilor inital plasate pe lamela (2p)
+   2) "vizualizarea la microscop" a bacteriilor (de un anumit tip) plasate initial pe lamela (2p)
+   3) "vizualizarea la microscop" a bacteriilor de pe lamela dupa un anumit numar de unitati de timp (2p)
+   4) stabilirea mediei duratei de viata a bacteriilor existete pe lamela la un anumit moment de timp (2p)
+
+Dezvoltarea corecta a entitatilor necesare (1p)
+Stil: specificare sub-algoritmi, claritate cod, etc. (1p)
+
+
+
+(1) ---> (1)
+    ---> (1)
+
+(2)          (inainte de 3 unitati de timp)
+(2) ---> (2) (dupa 3 unitati de timp)
