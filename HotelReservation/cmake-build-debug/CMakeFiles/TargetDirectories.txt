@@ -1,0 +1,3 @@
+C:/Users/Priala/CLionProjects/subiect_hotel/cmake-build-debug/CMakeFiles/subiect_examen_1.dir
+C:/Users/Priala/CLionProjects/subiect_hotel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Priala/CLionProjects/subiect_hotel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
